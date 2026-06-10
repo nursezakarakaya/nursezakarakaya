@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hai! Paprika here :D
+<img width="4000" height="4000" alt="Başlıksız138_20260128134420" src="https://github.com/user-attachments/assets/840f9252-2aef-4194-99fe-231056a6cd78" />
+
+
 
 <!--
 **nursezakarakaya/nursezakarakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
