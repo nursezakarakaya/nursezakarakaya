@@ -7,6 +7,7 @@ My main interests are:
 * Writing
 * Game development
 * Website development
+* Animation
 
 <p align="center">
 <img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/e166a775-c832-47d0-a379-d27084265057" />
