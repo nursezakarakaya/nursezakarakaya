@@ -10,11 +10,10 @@ My main interests are:
 * Website development
 * Animation
 
-<img width="135" height="45" alt="a" src="https://github.com/user-attachments/assets/8c0e296b-7b01-47a1-873f-91aff8711c9b" />
-<img width="135" height="45" alt="rnis_ (@nisukochan) on X" src="https://github.com/user-attachments/assets/6671bd10-385e-413b-9505-b39a36d7eea5" />
-<img width="135" height="45" alt="indir1-ezgif com-crop" src="https://github.com/user-attachments/assets/ac80a942-e7f3-4812-90f3-fbba43f8840f" />
-<img width="135" height="45" alt="indir" src="https://github.com/user-attachments/assets/f36034cf-fa2a-4db5-9a7a-74c737794b1e" />
-<img width="135" height="45" alt="webp_a" src="https://github.com/user-attachments/assets/57a3d51d-9729-4103-b908-6e720e2f8fa7" />
+<img width="135" height="45" alt="jellyfish" src="https://github.com/user-attachments/assets/57a3d51d-9729-4103-b908-6e720e2f8fa7" />
+<img width="135" height="45" alt="fih" src="https://github.com/user-attachments/assets/6671bd10-385e-413b-9505-b39a36d7eea5" />
+<img width="135" height="45" alt="lain" src="https://github.com/user-attachments/assets/b3e04371-059b-4ea1-9a11-4151f4709d37" />
+<img width="135" height="45" alt="01" src="https://github.com/user-attachments/assets/f36034cf-fa2a-4db5-9a7a-74c737794b1e" />
 
 I love writing my own stories and creating my own characters!! :3 
 
