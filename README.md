@@ -1,6 +1,7 @@
 # Haii Paprika here :D 🧡🌠🌟
 <img width="400" height="400" align="right" alt="Başlıksız138_20260128134420" src="https://github.com/user-attachments/assets/840f9252-2aef-4194-99fe-231056a6cd78" />
 I'm currently studying Computer Engineering in Bursa Technical University!
+
 My main interests are:
 
 * Drawing
@@ -8,6 +9,11 @@ My main interests are:
 * Game development
 * Website development
 * Animation
+
+<img width="498" height="208" alt="aa" src="https://github.com/user-attachments/assets/31bf62bd-2523-4dd3-93f4-3ba6f9f4d1fd" />
+
+I love writing my own stories and creating my own characters!! :3 
+
 
 <p align="center">
 <img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/e166a775-c832-47d0-a379-d27084265057" />
