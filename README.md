@@ -10,7 +10,7 @@ My main interests are:
 * Website development
 * Animation
 
-<img width="498" height="208" alt="aa" src="https://github.com/user-attachments/assets/31bf62bd-2523-4dd3-93f4-3ba6f9f4d1fd" />
+<img height="104" alt="aa" src="https://github.com/user-attachments/assets/31bf62bd-2523-4dd3-93f4-3ba6f9f4d1fd" />
 
 I love writing my own stories and creating my own characters!! :3 
 
