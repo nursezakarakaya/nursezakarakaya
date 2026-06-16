@@ -19,6 +19,8 @@ My main interests are:
 
 I love writing my own stories and creating my own characters!! :3 
 
+THIS PAGE IS STILL UNDER CONSTRUCTION!!!
+
 ---
 
 <p align="center">
