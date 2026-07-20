@@ -54,6 +54,5 @@ My main interests are:
 </p>
 
 <p align="center">
-<img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/e166a775-c832-47d0-a379-d27084265057" />
+<img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/b1554911-1612-469f-a62c-76efb48c2a39" />
 </p>
-<br>
