@@ -28,7 +28,7 @@ My main interests are:
 <div align="center">
 <h4><b>Buy my book(s) here!:</b></h4>
 <a href="https://www.kitapyurdu.com/kitap/icimizden-biri/625498.html?srsltid=AfmBOortmtqD7-yUgavuASGsJEE_cl0bJTJ_7PyK7G5jFZNu-kbkIbyw">
-   <img width="120" alt="İçimizden Biri" src="https://github.com/user-attachments/assets/54372d53-f080-439e-a9d7-93c33bf98c98" style="border: 1px solid navy;" />
+   <img width="120" alt="İçimizden Biri" src="https://github.com/user-attachments/assets/188a73bc-3e7a-4f48-9436-13da19700f6d" style="border: 1px solid navy;" />
 </a>
 <h6><i>İçimizden Biri (2022)</i></h6>
 </div>
@@ -57,5 +57,3 @@ My main interests are:
 <img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/e166a775-c832-47d0-a379-d27084265057" />
 </p>
 <br>
-
-<h3 align="center"> I LOVE ROBOTS!!1!</h3>
