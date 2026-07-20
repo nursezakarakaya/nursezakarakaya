@@ -24,7 +24,7 @@ My main interests are:
 #### ★ Languages I'm currently learning❣️: Japanese, German
 ---
 #### I love writing my own stories and creating my own characters!! :3 💖
-
+<img width="798" height="1204" alt="Ekran görüntüsü 2026-07-20 164329" src="https://github.com/user-attachments/assets/54372d53-f080-439e-a9d7-93c33bf98c98" />
 
 THIS PAGE IS STILL UNDER CONSTRUCTION!!!
 
