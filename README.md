@@ -25,10 +25,14 @@ My main interests are:
 ---
 #### I love writing my own stories and creating my own characters!! :3 💖
 
-### İçimizden Biri:
+<div align="center">
+<h4><b>Buy my book (İçimizden Biri) here!:</b></h4>
 <a href="https://www.kitapyurdu.com/kitap/icimizden-biri/625498.html?srsltid=AfmBOortmtqD7-yUgavuASGsJEE_cl0bJTJ_7PyK7G5jFZNu-kbkIbyw">
-   <img width="100" alt="İçimizden Biri" src="https://github.com/user-attachments/assets/54372d53-f080-439e-a9d7-93c33bf98c98" />
+   <img width="150" alt="İçimizden Biri" src="https://github.com/user-attachments/assets/54372d53-f080-439e-a9d7-93c33bf98c98" />
 </a>
+</div>
+
+More books and fictions coming soon! :)
 
 THIS PAGE IS STILL UNDER CONSTRUCTION!!!
 
