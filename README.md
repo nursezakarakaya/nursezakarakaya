@@ -20,8 +20,6 @@ My main interests are:
 <img width="135" height="45" alt="message" src="https://github.com/user-attachments/assets/8dbe91fe-4df8-4128-921c-47ce8ed2ba4c" />
 
 ---
-<br>
-
 
 ### ★ Languages I speak🌐: Turkish (Native language), English
 #### ★ Languages I'm currently learning❣️: Japanese, German
