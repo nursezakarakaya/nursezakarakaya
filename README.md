@@ -23,18 +23,15 @@ My main interests are:
 ### ★ Languages I speak🌐: Turkish (Native language), English
 #### ★ Languages I'm currently learning❣️: Japanese, German
 ---
-#### I love writing my own stories and creating my own characters!! :3 💖
+#### I love writing my own stories and creating my own characters!! :3 💖 See my book showcase down below! More books and fictions coming soon :)
 
 <div align="center">
-<h4><b>Buy my book (İçimizden Biri) here!:</b></h4>
+<h4><b>Buy my book(s) here!:</b></h4>
 <a href="https://www.kitapyurdu.com/kitap/icimizden-biri/625498.html?srsltid=AfmBOortmtqD7-yUgavuASGsJEE_cl0bJTJ_7PyK7G5jFZNu-kbkIbyw">
-   <img width="150" alt="İçimizden Biri" src="https://github.com/user-attachments/assets/54372d53-f080-439e-a9d7-93c33bf98c98" />
+   <img width="120" alt="İçimizden Biri" src="https://github.com/user-attachments/assets/54372d53-f080-439e-a9d7-93c33bf98c98" style="border: 1px solid navy;" />
 </a>
+<h6><i>İçimizden Biri (2022)</i></h6>
 </div>
-
-More books and fictions coming soon! :)
-
-THIS PAGE IS STILL UNDER CONSTRUCTION!!!
 
 ---
 
@@ -59,3 +56,6 @@ THIS PAGE IS STILL UNDER CONSTRUCTION!!!
 <p align="center">
 <img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/e166a775-c832-47d0-a379-d27084265057" />
 </p>
+<br>
+
+<h3 align="center"> I LOVE ROBOTS!!1!</h3>
