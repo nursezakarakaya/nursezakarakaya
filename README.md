@@ -1,5 +1,5 @@
 # Haii Gündüz here :D 🌠🌟
-<img height="400" align="right" alt="mee >_<" src="https://github.com/user-attachments/assets/3abc4028-706b-4d08-8588-d1ed478c730b" />
+<img height="400" align="right" alt="mee >_<" src="https://github.com/user-attachments/assets/b3681601-66f5-402a-a5f8-7b306aece9a3" />
 
 I'm currently studying Computer Engineering in Bursa Technical University!
 
