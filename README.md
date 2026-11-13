@@ -59,3 +59,12 @@ My main interests are:
 <p align="center">
 <img width="600" alt="20250302_004714" src="https://github.com/user-attachments/assets/b1554911-1612-469f-a62c-76efb48c2a39" />
 </p>
+
+---
+
+<h3 align="center"> Socials and Published Games:</h3>
+<p align="center">
+<a href= "https://robotenshi.itch.io/">
+<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="itch.io"/>
+</a>
+</p>
