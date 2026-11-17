@@ -13,8 +13,7 @@ My main interests are:
 * Animation
 * Writing lyrics (also trying to learn how to compose songs!)
 
-<img width="135" height="45" alt="jellyfish" src="https://github.com/user-attachments/assets/57a3d51d-9729-4103-b908-6e720e2f8fa7" />
-<img width="135" height="45" alt="fih" src="https://github.com/user-attachments/assets/fd8723c2-d931-4b7e-ad75-016896166766" />
+<img width="135" height="45" alt="jellyfish" src="https://github.com/user-attachments/assets/fd8723c2-d931-4b7e-ad75-016896166766" />
 <img width="135" height="45" alt="fih" src="https://github.com/user-attachments/assets/6671bd10-385e-413b-9505-b39a36d7eea5" />
 <img width="135" height="45" alt="lain" src="https://github.com/user-attachments/assets/b3e04371-059b-4ea1-9a11-4151f4709d37" />
 <img width="135" height="45" alt="01" src="https://github.com/user-attachments/assets/f36034cf-fa2a-4db5-9a7a-74c737794b1e" />
